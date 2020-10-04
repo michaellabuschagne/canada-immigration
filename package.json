@@ -1,0 +1,32 @@
+{
+  "name": "canada-immigration",
+  "version": "1.0.0",
+  "description": "A site with useful general information for South Africans wanting to immigrate to Canada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellabuschagne/canada-immigration.git"
+  },
+  "keywords": [
+    "canada",
+    "immigration",
+    "south",
+    "africa"
+  ],
+  "author": "Michael Labuschagne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellabuschagne/canada-immigration/issues"
+  },
+  "homepage": "https://github.com/michaellabuschagne/canada-immigration#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
