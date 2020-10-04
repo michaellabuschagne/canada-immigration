@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/michaellabuschagne/canada-immigration#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "parse5": "^6.0.1",
+    "xmldom": "^0.3.0",
+    "xmlserializer": "^0.6.1",
+    "xpath": "0.0.29"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
